@@ -47,7 +47,7 @@ class ExpenseTracker:
         print("\nSummary:")
         print(f"Total expenses: {total_expense}")
         print(f"Total spent: {total_spent}")
-        print(f"Highest expense: {max_expense}")
+        print(f"Highest expense: {max_expense.description} - {max_expense.amount}")
 
 
 expense_track = ExpenseTracker()
