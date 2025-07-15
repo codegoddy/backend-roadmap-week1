@@ -24,7 +24,7 @@ A motivational study tracker that asks for your goal and hours planned, then enc
 
 **Features:**
 
-- Input your name, study goal, and hours planned
+- Input your name, study goal, and hours planned.
 - Custom motivational message based on time
 - (Bonus) Logs your goal and time into a file `study_log.txt`
 
@@ -36,7 +36,7 @@ A command-line app that allows you to record your daily expenses and get a summa
 
 **Features:**
 
-- Input expense description and amount
+- Input expense description and amount.
 - Handles invalid inputs with `try/except`
 - Calculates and displays total spent
 
@@ -48,7 +48,7 @@ A productivity tracker that logs how much time you’ve spent on daily tasks.
 
 **Features:**
 
-- Input your name and number of tasks
+- Input your name and number of tasks.
 - For each task, input what you worked on and how long (in minutes)
 - Displays a summary and motivational message based on total time
 
@@ -60,7 +60,7 @@ A productivity tracker that helps you monitor daily habits.
 
 **Features:**
 
-- Tracks multiple habits and their completion status ('yes'/'no')
+- Tracks multiple habits and their completion status ('yes'/'no').
 - Displays a summary with completion status (✓/✗)
 - Calculates and shows the overall completion percentage
 
@@ -72,7 +72,7 @@ An interactive, menu-driven app to manage your shopping list.
 
 **Features:**
 
-- Add items with quantity and price
+- Add items with quantity and price.
 - View a formatted list with totals per item and a grand total
 - Remove items from the list by name
 
@@ -84,7 +84,7 @@ An enhanced, menu-driven version of the task timer.
 
 **Features:**
 
-- Add, view, and remove tasks without restarting
+- Add, view, and remove tasks without restarting.
 - Calculates and displays total time spent across all tasks
 - More user-friendly and persistent session management
 
@@ -94,7 +94,7 @@ An enhanced, menu-driven version of the task timer.
 
 These beginner-friendly CLI projects helped me:
 
-- Practice logic building and error handling
+- Practice logic building and error handling.
 - Understand how to collect and store user input
 - See how simple terminal apps can simulate real backend behavior
 - Get ready for API-building with Flask and Django in the coming weeks
@@ -105,7 +105,7 @@ These beginner-friendly CLI projects helped me:
 
 Tomorrow I’ll dive into object-oriented programming with:
 
-- Classes
+- Classes.
 - Inheritance
 - Encapsulation
 
