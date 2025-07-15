@@ -54,7 +54,19 @@ A rewrite of the Day 1 habit tracker using an object-oriented approach.
 
 ---
 
-### 4. `book_tracker.py`
+### 4. `expense_tracker.py`
+
+An OOP version of the Day 1 expense tracker, built to manage spending.
+
+**Features:**
+
+- An `Expense` class to model each spending event with a `description` and `amount`.
+- An `ExpenseTracker` class to add, view, and summarize expenses.
+- The summary calculates the total number of expenses, the total amount spent, and identifies the single largest expense.
+
+---
+
+### 5. `book_tracker.py`
 
 A new CLI application to log and manage a reading list.
 
