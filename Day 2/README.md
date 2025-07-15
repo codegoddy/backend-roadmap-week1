@@ -77,7 +77,3 @@ Object-Oriented Programming is a fundamental paradigm in modern software develop
 - **Foundation for Frameworks:** Most backend frameworks (like Django, Flask, FastAPI) are built on OOP principles. Understanding classes is essential for using them effectively.
 
 ---
-
-## 📅 Next: Day 3 — Advanced OOP & Data Persistence
-
-Tomorrow, the plan is to explore more advanced OOP concepts and learn how to make my application data persistent by saving it to and loading it from files.
