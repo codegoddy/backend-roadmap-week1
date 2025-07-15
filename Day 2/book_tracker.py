@@ -83,9 +83,9 @@ while True:
         try:
             tracker.summary()
         except ValueError:
-            print("⚠️ Please enter a valid number.")
+            print("⚠️ Please enter a valid number")
     elif choice == "4":
         print("Goodbye!")
         break
     else:
-        print("\nPlease enter a valid options!")
+        print("\nPlease enter a valid options")
